@@ -1,0 +1,2 @@
+# Productivity-of-packers-and-pickers
+We need pick and pack productivity reports by shift for the season. Information including their shipments packed or picked per day or per hour, and units packed or picked per day or per hour. Since we would like to use these info to estimate how many shifts did they work before packers and pickers got a good pack or pick number, was quality affected at all by how many shifts they worked, they probably damage or mispick items during working process,we are using this information to start planning for next year.
